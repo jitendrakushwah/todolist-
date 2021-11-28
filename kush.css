@@ -1,0 +1,35 @@
+       *{
+           margin: 0;
+           padding: 0;
+           box-sizing: border-box;
+       }
+        body{
+            font-family: arial;
+            font-size: 20px;
+            padding: 40px;
+
+
+
+            background-color: rgba(0, 41, 128, 0.109);
+
+        }
+        h1{
+            font-size: 40px;
+            margin-bottom: 25px;
+        }
+
+        h2{
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .first{
+            color: rgba(255, 0, 0, 0.513);
+        }
+        #your-name{
+            background-color:rgb(0, 255, 106);
+            border: 5px solid rgba(85, 85, 85, 0.842);
+            width: 400px;
+            padding: 25px;
+            margin-top: 38px;
+        }
+   
